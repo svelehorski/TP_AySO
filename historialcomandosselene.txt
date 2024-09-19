@@ -1,0 +1,34 @@
+ls
+pwd
+mkdir repogit
+cd repogit
+mkdir -p {carpetauno, carpetados}
+ls
+mkdir -p {carpetauno, carpetados}
+ls
+mkdir -p {carpetauno, carpetados}
+ls
+mkdir -p ejemplo/{1,2}
+ls
+ls ejemplo
+tree
+su
+tree
+man tree
+cd ..
+pwd
+useradd yo
+su
+pwd
+cd ..
+ls
+ls -la
+su
+selene30
+su
+ls
+pwd
+cd ..
+mkdir 
+mkdir yo
+su
